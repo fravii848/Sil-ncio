@@ -1,1 +1,0 @@
-bot: python3 silencer_bot.py
